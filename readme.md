@@ -1,6 +1,8 @@
 # English
 
-    This repostory's goal is to provided the docker-compose.yaml file that I created during my docker studies to run the Event2All (app developed during the Gama Exp bootcamp by me and a group of coleagues) aplication dockerized on dev mode.
+    This repostory's goal is to provided the docker-compose.yaml file that I created during my docker 
+    studies to run the Event2All (app developed during the Gama Exp bootcamp by me and a group of
+    coleagues) aplication dockerized on dev mode.
 
 ## 📋 Prerequisites
 
@@ -9,12 +11,15 @@
 ## 🔧 Instructions
 
     1. Open a terminal and navigate to the directory where docker-compose.yaml file is on.
-    2. run the command: docker-compose up (if the process crashes, end it by pressing CTRL C in the terminal and run the command again)
+    2. run the command: docker-compose up (if the process crashes, end it by pressing 
+    CTRL C in the terminal and run the command again).
     3. open your favorite browser and access the client aplicantion on localhost:3002
 
 # Português
 
-    O objetivo deste repositório é fornecer o arquivo docker-compose.yaml que criei durante meus estudos de docker para executar o aplicativo Event2All (aplicativo desenvolvido durante o bootcamp Gama Exp por mim e um grupo de colegas) dockerizado no modo dev.
+    O objetivo deste repositório é fornecer o arquivo docker-compose.yaml que criei durante meus 
+    estudos de docker para executar o aplicativo Event2All (aplicativo desenvolvido durante o
+    bootcamp Gama Exp por mim e um grupo de colegas) dockerizado no modo dev.
 
 ## 📋 Pré-requisitos
 
@@ -23,7 +28,8 @@
 ## 🔧 Instruções
 
     1. Abra um terminal e navegue até o diretório onde o arquivo docker-compose.yaml está.
-    2. execute o comando: docker-compose up (caso o processo trave, termine-o apertando CTRL C no terminal e rode o comando novamente)
+    2. execute o comando: docker-compose up (caso o processo trave, termine-o apertando
+    CTRL C no terminal e rode o comando novamente)
     3. abra seu navegador favorito e acesse o aplicativo cliente em localhost:3002
 
 ## backend repository
