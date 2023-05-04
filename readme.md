@@ -9,7 +9,7 @@
 ## 🔧 Instructions
 
     1. Open a terminal and navigate to the directory where docker-compose.yaml file is on.
-    2. run the command: docker-compose up
+    2. run the command: docker-compose up (if the process crashes, end it by pressing CTRL C in the terminal and run the command again)
     3. open your favorite browser and access the client aplicantion on localhost:3002
 
 # Português
@@ -23,7 +23,7 @@
 ## 🔧 Instruções
 
     1. Abra um terminal e navegue até o diretório onde o arquivo docker-compose.yaml está.
-    2. execute o comando: docker-compose up
+    2. execute o comando: docker-compose up (caso o processo trave, termine-o apertando CTRL C no terminal e rode o comando novamente)
     3. abra seu navegador favorito e acesse o aplicativo cliente em localhost:3002
 
 ## backend repository
